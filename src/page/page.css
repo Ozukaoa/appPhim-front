@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;500&display=swap');
+
+
+
+
+
+.title_homepage{
+    color: #b1a21e;
+    font-family: Oswald,sans-serif;
+    font-size: 1.5em;
+    /* text-shadow: 1px 1px 1px #1a1a1a; */
+    text-transform: uppercase;
+    
+    
+}
+
+.title_homepage h2{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom: 1px solid #1e80e3;
+    margin-left: 1em;
+    padding-bottom: .2em;
+    margin-bottom: .5em;
+    margin-top: 1em;
+}    
+
+.title-a{
+    display: flex;
+    flex-direction: column;
+}
+
+.page{
+    background-color: #081a2c;
+}
+
+.list-film{
+    margin-left: 20px;
+}
