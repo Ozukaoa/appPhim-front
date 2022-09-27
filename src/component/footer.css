@@ -1,0 +1,65 @@
+
+
+.foot{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: -2;
+    opacity: 0.1;
+    object-fit: cover;
+}
+
+.svg{
+    font-size: 50px;
+}
+
+.f1{
+    
+    font-size: 50px;
+    position: inherit;
+    background-image: linear-gradient(to bottom, hsl(224, 32%, 9%), rgba(117, 19, 93, 0)), url(../asset/footer-bg.jpg);
+  
+}
+
+.row{
+    margin: 0px;
+    padding: 0px;
+    padding-top: 10px;
+    
+}
+
+.foot_div{
+    padding-top: 4rem;
+    margin :50px 100px 100px 150px
+    
+}
+
+.foot_div a{
+    display: block;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: rgb(255, 255, 255);
+}
+
+.foot_div a:hover{
+    display: block;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: rgb(206, 143, 27);
+}
+
+hr { 
+ 
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: double;
+    border-width: 1px;
+    
+    padding-left: 10px;
+}

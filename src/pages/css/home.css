@@ -1,0 +1,26 @@
+.home_display{
+   padding: 5px;
+   background-color: white;
+   
+}
+
+
+.home_display .h1{
+    
+ }
+
+.btn{
+   display: block;
+   width: fit-content;
+   padding: 0px;
+   font-size: 20px;
+   align-items:unset;
+   justify-content:unset;
+}
+
+.pagination{
+   width: 100%;
+   display: flex;
+   align-items: center;
+    justify-content: center;
+}
